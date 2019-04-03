@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KoinExample</string>
+    <string name="test_injection">Test injection</string>
+    <string name="context_injected">Android context successfully injected</string>
+</resources>
